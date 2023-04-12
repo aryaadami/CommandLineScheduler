@@ -1,4 +1,5 @@
 # CommandLineScheduler
+### To download click on _Code_ then _Download ZIP_.
 ### An incomplete initiative to create a command-line scheduler for university. It is missing a lot of scheduling functionality and only functions as a to-do list currently, but it is is very unlikely that I will return to finish it. The setup instructions are below.
 
 ## Setup instructions:
