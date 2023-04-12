@@ -5,9 +5,9 @@
 ## Setup instructions:
 1. Download all the files and place them in a folder.
 2. Ensure you have a version of python3 installed.
-3. Ensure you have a version of pip installed.
-4. Open CMD or Terminal. On Windows, type _**pip install colorama**_. On MacOS, type _**python -m pip install colorama**_.
-**NB:** On MacOS, you may have to start with _python3_ instead of just _python_.
+3. Ensure you have a version of pip installed. If necessary, update to the latest version of pip using **_pip3 install --upgrade pip_**.
+4. Open CMD or Terminal. On Windows, type _**pip install colorama**_. On MacOS, type _**python3 -m pip install colorama**_.
+**NB:** On MacOS, you may need to use the_python_ command instead of _python3_.
 5. Double click the _main_ file to run the program.
 **NB:** The **_print overview_** functionality only works on Windows machines. Nevertheless, you can still manually print the generated .txt file.
 
