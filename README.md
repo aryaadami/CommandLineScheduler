@@ -13,3 +13,4 @@
 
 **Enjoy!**
 
+### Edit: a lot of functionality does not work on MacOS, so use with caution.
